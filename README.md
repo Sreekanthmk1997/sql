@@ -40,4 +40,4 @@ The `Employee` table consists of the following fields:
 ### Installation Steps
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/Sreekanthmk1997/sql_repo.git>
+   git clone <https://github.com/Sreekanthmk1997/sql.git>
