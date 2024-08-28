@@ -36,7 +36,10 @@ The `Employee` table consists of the following fields:
 - Python X.X.X
 - Django X.X.X
 - PostgreSQL (or other database)
-
+- 
+## path
+PS C:\Users\Sreekanth\OneDrive\Desktop\first\sql>
+  
 ### Installation Steps
 1. **Clone the repository:**
    ```bash
